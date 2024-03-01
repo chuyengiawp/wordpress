@@ -1,4 +1,4 @@
-# node-wordpress
+# chuyengiawp
 
 A node.js JavaScript client for working with WordPress.
 
@@ -11,7 +11,7 @@ Requires WordPress 3.4 or newer (uses the [WordPress XML-RPC API](http://codex.w
 ## Installation
 
 ```
-npm install wordpress
+npm install chuyengiawp
 ```
 
 
